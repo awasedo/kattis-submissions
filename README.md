@@ -8,3 +8,5 @@ A repository for all my approved https://open.kattis.com/ submissions
 * [Cold-puter Science](https://open.kattis.com/problems/cold)
 
 * [Oddities](https://open.kattis.com/problems/oddities)
+
+* [Simon says](https://open.kattis.com/problems/simonsays)
