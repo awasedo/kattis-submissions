@@ -14,3 +14,7 @@ A repository for all my approved https://open.kattis.com/ submissions
 * [Dice cup](https://open.kattis.com/problems/dicecup)
 
 * [Carrots](https://open.kattis.com/problems/carrots)
+
+* [Just a minute](https://open.kattis.com/problems/justaminute)
+
+* [Autori](https://open.kattis.com/problems/autori)
