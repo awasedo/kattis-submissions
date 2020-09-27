@@ -10,3 +10,5 @@ A repository for all my approved https://open.kattis.com/ submissions
 * [Oddities](https://open.kattis.com/problems/oddities)
 
 * [Simon says](https://open.kattis.com/problems/simonsays)
+
+* [Dice cup](https://open.kattis.com/problems/dicecup)
