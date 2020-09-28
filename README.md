@@ -18,3 +18,5 @@ A repository for all my approved https://open.kattis.com/ submissions
 * [Just a minute](https://open.kattis.com/problems/justaminute)
 
 * [Autori](https://open.kattis.com/problems/autori)
+
+*[Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone)
