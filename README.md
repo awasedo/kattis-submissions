@@ -22,3 +22,5 @@ A repository for all my approved https://open.kattis.com/ submissions
 * [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone)
 
 * [R2](https://open.kattis.com/problems/r2)
+
+* [Trik](https://open.kattis.com/problems/trik)
