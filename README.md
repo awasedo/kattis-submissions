@@ -24,3 +24,5 @@ A repository for all my approved https://open.kattis.com/ submissions
 * [R2](https://open.kattis.com/problems/r2)
 
 * [Trik](https://open.kattis.com/problems/trik)
+
+* [Nasty Hacks](https://open.kattis.com/problems/nastyhacks)
