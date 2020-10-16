@@ -1,2 +1,4 @@
-nums = list(map(int, input().split()))
-print(nums[1]*2-nums[0])
+l = input().split()
+R1 = int(l[1])
+S = int(l[0])
+print(R1*2-S)
