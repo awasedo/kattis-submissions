@@ -1,5 +1,6 @@
 # kattis
-A repository for all my approved https://open.kattis.com/ submissions
+A repository for all my approved https://open.kattis.com/ submissions!
+Tack Rickard om du råkar se någon gång för att du introducerade mig till Kattis!
 
 * [Hello World!](https://open.kattis.com/problems/hello)
 
