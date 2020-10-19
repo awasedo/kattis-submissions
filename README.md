@@ -1,6 +1,6 @@
 # kattis
 A repository for all my approved https://open.kattis.com/ submissions!
-Tack Rickard om du råkar se någon gång för att du introducerade mig till Kattis!
+Tack Rickard, om du råkar se någon gång för att du introducerade mig till Kattis!
 
 * [Hello World!](https://open.kattis.com/problems/hello)
 
@@ -31,3 +31,5 @@ Tack Rickard om du råkar se någon gång för att du introducerade mig till Kat
 * [ABC](https://open.kattis.com/problems/abc)
 
 * [Seven Wonders](https://open.kattis.com/problems/sevenwonders)
+
+* [Chanukah Challenge](https://open.kattis.com/problems/chanukah)
