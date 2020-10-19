@@ -26,3 +26,7 @@ A repository for all my approved https://open.kattis.com/ submissions
 * [Trik](https://open.kattis.com/problems/trik)
 
 * [Nasty Hacks](https://open.kattis.com/problems/nastyhacks)
+
+* [ABC](https://open.kattis.com/problems/abc)
+
+* [Seven Wonders](https://open.kattis.com/problems/sevenwonders)
