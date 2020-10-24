@@ -39,3 +39,9 @@ Tack Rickard, om du råkar se någon gång för att du introducerade mig till Ka
 * [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere)
 
 * [Grass Seed Inc.](https://open.kattis.com/problems/grassseed)
+
+* [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary)
+
+* [A Different Problem](https://open.kattis.com/problems/different)
+
+* [Kemija](https://open.kattis.com/problems/kemija08)
