@@ -1,6 +1,7 @@
 # kattis
 A repository for all my approved https://open.kattis.com/ submissions!
 Tack Rickard, om du råkar se någon gång för att du introducerade mig till Kattis!
+By the way some of these solutions are kind of shitty, but they work :)
 
 * [Hello World!](https://open.kattis.com/problems/hello)
 
