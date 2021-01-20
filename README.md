@@ -46,3 +46,5 @@ By the way some of these solutions are kind of shitty, but they work :)
 * [A Different Problem](https://open.kattis.com/problems/different)
 
 * [Kemija](https://open.kattis.com/problems/kemija08)
+
+* [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop)
